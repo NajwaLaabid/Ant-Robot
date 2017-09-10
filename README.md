@@ -1,7 +1,7 @@
 # Ant-Robot-using-Ev3-Lego-Mindstorms
 This is a class project modeling the foraging behavior of Cataglyphis ants using Ev3 Lego Mindstorms Robot. This repo contains the research paper supporting the model, pictures of the physical built, and the files of code necessary to run the bot.
 
-The following information provides a quick overview on the project:
+The following information provides a quick overview on the project: https://www.beloit.edu/news/sources/?story_id=397079
 
 1. Context: 
 
