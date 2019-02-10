@@ -17,7 +17,7 @@ Most ants forage in groups. Cataglyphis ants (desert ants), are some of the few 
 
 ## 4. In brief, what does the robot do?
 
-It locates its "food" (an IR bacon), fetches it, and brings it back to its "nest" (initial position). 
+It locates its "food" (an IR bacon), fetches it, and brings it back to its "nest" (initial position). You can find out more about the mechanisms real ants use in this process (and many other cool facts about Cataglyphis ants and how they're modeled in this robot) in the accompanying research paper available in this repo. 
 
 ## 5. What do you need to build a similar (or even cooler) robot?
 
